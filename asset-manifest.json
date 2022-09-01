@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjs-yano/static/css/main.b0b2abfc.css",
+    "main.js": "/reactjs-yano/static/js/main.d81cfd00.js",
+    "index.html": "/reactjs-yano/index.html",
+    "main.b0b2abfc.css.map": "/reactjs-yano/static/css/main.b0b2abfc.css.map",
+    "main.d81cfd00.js.map": "/reactjs-yano/static/js/main.d81cfd00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0b2abfc.css",
+    "static/js/main.d81cfd00.js"
+  ]
+}

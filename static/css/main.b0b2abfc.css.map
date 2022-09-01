@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b0b2abfc.css","mappings":"AAAA,+BACI,aACF,CAEA,oCACE,UACE,YACF,CAEF","sources":["pages/Index.css"],"sourcesContent":[".dropdown:hover>.dropdown-menu {\r\n    display: block;\r\n  }\r\n\r\n  @media screen and (max-width: 768px) { \r\n    .dropdown {\r\n      display: none;\r\n    }\r\n    \r\n  }"],"names":[],"sourceRoot":""}
